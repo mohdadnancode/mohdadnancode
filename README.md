@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Adnan 👋
 
-<!--
-**mohdadnancode/mohdadnancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer Intern | BCA Graduate  
 
-Here are some ideas to get you started:
+I build real-world web applications using the MERN stack, focusing on clean UI, practical backend logic, and consistent improvement through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+### 🚀 Projects
+- **SmartCart Web App** – Web-based supermarket management system  
+- **NextRig** – E-commerce website with product listing, cart, and order flow  
+
+### 📌 Currently
+- Improving full-stack development skills through daily coding
+- Working on real-world projects and refining existing ones
+
+### 📫 Contact
+- Email: mohdadnan.code@gmail.com
+- GitHub: https://github.com/mohdadnancode
+
+Open to junior developer roles
