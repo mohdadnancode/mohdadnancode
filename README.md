@@ -20,6 +20,7 @@ I build practical full-stack web applications such as e-commerce platforms and m
 
 ## Contact
 - Email: mohdadnan.code@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohdadnancode/
 - GitHub: https://github.com/mohdadnancode
 
 Open to junior developer roles and internships
